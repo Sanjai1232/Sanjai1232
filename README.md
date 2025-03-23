@@ -1,5 +1,5 @@
-<h2 align="left">Hi 👋! My name is  Sanjai and I'm a Java Full-Stack Developer from Coimbatore,TamilNadu.</h2>
-
+<h1>Hi 👋, I'm Sanjai</h1>
+<h2>A passionate java full-stack developer from  coimbatore,TamilNadu</h2>
 ###
 
 <div align="left">
@@ -25,17 +25,17 @@
   <a href="sanjaisanjai6551@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://www.instagram.com/sanjx_ai?igsh=OWllZHpyN285b3pu" target="_blank">
+  <a href="https://www.linkedin.com/in/sanjai-kumar-s-9338a8269?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sanjai1232&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sanjai1232&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Sanjai1232&show_icons=true&locale=en" alt="Sanjai1232" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sanjai1232&" alt="Sanjai1232" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sanjai1232&show_icons=true&locale=en&layout=compact" alt="Sanjai1232" /></p>
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sanjai1232" alt="Sanjai1232" /></a></p>
 
 ###
 
