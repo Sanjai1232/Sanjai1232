@@ -1,6 +1,5 @@
 <h1>Hi 👋, I'm Sanjai</h1>
 <h2>A passionate java full-stack developer from  coimbatore,TamilNadu</h2>
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="53" alt="javascript logo"  />
@@ -35,7 +34,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Sanjai1232&show_icons=true&locale=en" alt="Sanjai1232" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sanjai1232&" alt="Sanjai1232" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sanjai1232&show_icons=true&locale=en&layout=compact" alt="Sanjai1232" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sanjai1232" alt="Sanjai1232" /></a></p>
+
 
 ###
 
